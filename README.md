@@ -17,4 +17,7 @@ Based on the graphs, it can be concluded that that in order to launch a successf
 ## Data Limitations
 - One of the limitations is that the data had outliers that could potentially screw the results.
 - Also if the study is performed on more years, then the data could be more reliable.
-- 
+## Recommendations
+- The Theatre has three subgategories: play, musical and spaces. In this study only outcomes based on goals for play was created. Maybe graphs for other subcategories (musical and spaces) could have been created to give us more insight about the campaign.
+- Also, outliers could be removed and then we could re-do the study to see if the results would change.
+- Pie charts could be used to visualize successful, failed and canceled campaigns.

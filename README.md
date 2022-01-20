@@ -15,3 +15,6 @@ For this assignment, no major difficulties or challenges were encountered. Howev
 ## Results
 Based on the graphs, it can be concluded that that in order to launch a successful Play campaign, it is advised to launch the campaign in month of May. It is also advised to have a low goal. This way the chance of success increases.
 ## Data Limitations
+- One of the limitations is that the data had outliers that could potentially screw the results.
+- Also if the study is performed on more years, then the data could be more reliable.
+- 

@@ -8,3 +8,5 @@ In order to do analysis on this project, Excel was used to extract data. Then, p
 - It can be seen that the Theatre campaigns are more successful when launched in month of May with 111 successful campaings followed by month of June with 100 successful campaign.
 
 - Surprisingly, May have roughly the same number of failed campaigns launched followed by July, October and June. Therefore, it can be concluded that Theatre campaigns that have launched in month of May have both high number of success and failure.
+## Analysis of Outcomes Based on Goals
+It can be seen that the play campaigns are more successful when the goal is not much. As the goal increases, the percentage of successful campaigns decrease and the percentage of failed campaigns increase. However, from 25000-2999 to 40000-44999 goal, the percentage of successful play campaigns increase, and percentage of failed campaigns decrease. Then, from 45000 onwards, the trend reverses with increased failed campaigns.

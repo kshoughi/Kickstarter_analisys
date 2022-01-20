@@ -8,6 +8,7 @@ In order to do analysis on this project, Excel was used to extract data. Then, p
 - Theatre campaigns are significantly more successful when launched in month of May with 111 successful campaings followed by month of June with 100 successful campaign.
 
 - Surprisingly, May has roughly the same number of failed campaigns launched followed by July, October and June. So, it can be said that Theatre campaigns number of success and failure rate are both higher when luanched in the month of May.
+![img1](https://github.com/kshoughi/Kickstarter_analisys/blob/main/Theater_Outcomes_vs_Launch.png)
 ## Analysis of Outcomes Based on Goals
 We can see that the play campaigns are more successful when the goal is not much. As goal increases, the percentage of successful campaigns decrease and the percentage of failed campaigns increase. However, from 25000-2999 to 40000-44999 goal, the percentage of successful play campaigns increase, and percentage of failed campaigns decrease. Also, from 45000 onwards, the trend reverses with increased failed campaigns.
 ## Challenges and Difficulties Encountered

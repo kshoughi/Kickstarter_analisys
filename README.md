@@ -14,3 +14,4 @@ It can be seen that the play campaigns are more successful when the goal is not 
 For this assignment, no major difficulties or challenges were encountered. However, One possible challenge in this dataset is that the time stamps were difficult to read and a conversion is needed. However, this can be easily solved by converting the time stampes to dates by dividing the time stamps by (60x60x24) and adding date 1970-01-01
 ## Results
 Based on the graphs, it can be concluded that that in order to launch a successful Play campaign, it is advised to launch the campaign in month of May. It is also advised to have a low goal. This way the chance of success increases.
+## Data Limitations
